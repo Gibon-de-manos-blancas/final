@@ -13,4 +13,13 @@
 		<image style="overflow:visible;enable-background:new    ;" width="2000" height="2000" xlink:href="gibon.png"  transform="matrix(0.5 0 0 0.5 0 0)">
 	</image>
 </g>
+<rect x="369.9" y="55.7" class="st0" width="260.3" height="119.7"/>
+<text transform="matrix(1 0 0 1 416.0862 89.2915)" class="st1 st2">Un color pardo </text>
+<text transform="matrix(1 0 0 1 409.7838 124.4915)" class="st1 st2">rojizo en el lomo</text>
+<line class="st3" x1="500" y1="152" x2="500" y2="300"/>
+<line class="st3" x1="500" y1="641" x2="500" y2="1009"/>
+<rect x="339" y="1038.1" class="st0" width="322.1" height="143.2"/>
+<text transform="matrix(1 0 0 1 384.4731 1063.6982)" class="st1 st2">Líneas transversales </text>
+<text transform="matrix(1 0 0 1 387.6003 1098.8982)" class="st1 st2">blancas y negras en </text>
+<text transform="matrix(1 0 0 1 446.6551 1134.0983)" class="st1 st2">su vientre</text>
 </svg>
